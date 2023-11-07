@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = SampleApp
+title = Israel news
 
 # (str) Package name
 package.name = israel12news
